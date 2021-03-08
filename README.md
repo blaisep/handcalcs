@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/pypi/pyversions/handcalcs">
   <img src="https://img.shields.io/github/license/connorferster/handcalcs">
   <img src="https://img.shields.io/pypi/dm/handcalcs">
+  <a href='https://mybinder.org/v2/gh/git@github.com:blaisep/handcalcs.git/feature/binder'><img src='https://mybinder.org/badge_logo.svg' alt='Launch in Binder' /></a>
 </p>
 <p align="center">
   <img src="docs/images/handcalcs.jpg"><br>
